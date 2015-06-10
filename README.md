@@ -84,3 +84,5 @@ grunt.initConfig({
     }
 });
 ```
+
+Published to npm on behalf of https://github.com/dphung20
