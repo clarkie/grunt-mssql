@@ -7,10 +7,12 @@
     "name": "Clarkie",
     "email": "andrew.t.clarke@gmail.com"
   },
-  "contributors": [{
-    "name": "Dung Phung",
-    "email": "dkphung@ucdavis.edu"
-  }],
+  "contributors": [
+    {
+      "name": "Dung Phung",
+      "email": "dkphung@ucdavis.edu"
+    }
+  ],
   "repository": {
     "type": "git",
     "url": "git://github.com/clarkie/grunt-mssql.git"
@@ -18,10 +20,12 @@
   "bugs": {
     "url": "https://github.com/clarkie/grunt-mssql/issues"
   },
-  "licenses": [{
-    "type": "MIT",
-    "url": "https://github.com/clarkie/grunt-mssql/blob/master/LICENSE-MIT"
-  }],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/clarkie/grunt-mssql/blob/master/LICENSE-MIT"
+    }
+  ],
   "main": "Gruntfile.js",
   "engines": {
     "node": ">= 0.8.0"
@@ -36,7 +40,7 @@
     "grunt": "~0.4.1"
   },
   "peerDependencies": {
-    "grunt": "~0.4.1"
+    "grunt": ">=0.4.0"
   },
   "keywords": [
     "gruntplugin"
